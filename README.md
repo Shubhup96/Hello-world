@@ -1,2 +1,3 @@
 # Hello-world
-Just a beginning
+Just a beginning.
+This is a sample file
